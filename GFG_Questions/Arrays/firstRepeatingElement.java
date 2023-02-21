@@ -1,3 +1,4 @@
+// First Repeating Element : Link - https://practice.geeksforgeeks.org/problems/first-repeating-element4018/1?page=1&difficulty[]=0&status[]=unsolved&category[]=Arrays&sortBy=submissions
 //{ Driver Code Starts
 // Initial Template for Java
 
